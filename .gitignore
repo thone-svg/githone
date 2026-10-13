@@ -13,3 +13,7 @@
 # Logs and temp
 *.log
 *.tmp
+
+
+.env
+.node_modules/
